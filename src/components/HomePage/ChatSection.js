@@ -33,7 +33,7 @@ const ChatSection = () => {
             <ion-icon name="document"></ion-icon>
           </div>
           <Link to={"/my-learning/"}>
-            <h3 className="text-[20px] lg:text-[12px] w-[12rem]">Your Notes</h3>
+            <h3 className="text-[20px] lg:text-[12px] w-[13rem]">Your Notes</h3>
           </Link>
           <div className=" mt-[5px] text-[#b7bec2]">
             <ion-icon name="caret-forward"></ion-icon>
